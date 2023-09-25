@@ -19,7 +19,7 @@
                     <li><a href="#">Modalidades</a></li>
                     <li><a href="#">Planos</a></li>
                     <li><a href="#">Fale conosco</a></li>
-                    <li><a href="#">Cadastra-se</a></li>
+                    <li><a href="cadas.html">Cadastra-se</a></li>
                 </ul>
             </nav>
         </div>
